@@ -1,0 +1,4 @@
+com\debo\crud\controllers\UserController.class
+com\debo\crud\Application.class
+com\debo\crud\entities\Employee.class
+com\debo\crud\repositories\UserRepository.class
